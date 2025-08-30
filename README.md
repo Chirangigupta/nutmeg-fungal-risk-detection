@@ -84,3 +84,5 @@ nutmeg-fungal-risk-project/
 ├── Dockerfile
 └── .github/workflows/ci.yml
 ```
+## License
+MIT
