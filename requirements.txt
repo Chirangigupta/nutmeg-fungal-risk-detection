@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+torch
+torchvision
+torchaudio
+pillow
+matplotlib
+streamlit
+fastapi
+uvicorn
+joblib
+tqdm
